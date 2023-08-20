@@ -1,2 +1,2 @@
 # JavaScript care site
-изучаю JavaScript
+изучаю JavaScript, слайдер машин
